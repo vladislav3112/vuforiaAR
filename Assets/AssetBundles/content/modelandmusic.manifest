@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1304737038
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 03979add6fb2cfdd9e849d650fd9092e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5cb34d92e9f74df51d74662b56daf83b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Cartoon Cat/fbx/cat_Eat.fbx
+- Assets/Resources/Music/cat_1_minute_sound.mp3
+- Assets/Resources/Cartoon Cat/fbx/cat_Jump.fbx
+Dependencies: []
